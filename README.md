@@ -15,9 +15,9 @@ I prefer understanding *why* things work rather than blindly using tools or fram
 ## Tech Stack
 
 ```text
-Languages   -> C++      | Python     | C           | 
-Frontend    -> HTML     | CSS        | JavaScript  |
-Tools       -> Git      | GitHub     | VS Code     | Figma |
+Languages   -> C++   | Python     | C           | 
+Frontend    -> HTML  | CSS        | JavaScript  |
+Tools       -> Git   | GitHub     | VS Code     | Figma |
 ```
 
 ---
