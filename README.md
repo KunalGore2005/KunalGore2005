@@ -38,7 +38,7 @@ Tools       -> Git   | GitHub     | VS Code     | Figma |
 
 | LeetCode | GeeksforGeeks | Codeforces |
 |---------|---------------|------------|
-| ![LeetCode Stats](https://leetcard.jacoblin.cool/kunalgore_11?theme=dark&font=Karma) |  <a href="https://auth.geeksforgeeks.org/user/kunalgore11"><img src="https://img.shields.io/badge/GFG-100%2B%20Problems-0f9d58?style=for-the-badge"></a><br/>Score: 300+ | ![Codeforces Stats](https://cf.leed.at?id=kunalgore_11&theme=dark)
+| ![LeetCode Stats](https://leetcard.jacoblin.cool/kunalgore_11?theme=dark&font=Karma) |  <a href="https://auth.geeksforgeeks.org/user/kunalgore11"><img src="https://img.shields.io/badge/GFG-200%2B%20Problems-0f9d58?style=for-the-badge"></a><br/>Score: 700+ | ![Codeforces Stats](https://cf.leed.at?id=kunalgore_11&theme=dark)
 
 ---
 
