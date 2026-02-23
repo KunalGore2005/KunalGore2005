@@ -9,7 +9,7 @@
 I am a Computer Science undergraduate specializing in AI & ML.  
 My primary focus is on building a strong foundation in data structures, algorithms, and core machine learning concepts, along with applying them through academic and personal projects.
 
-I prefer understanding *why* things work rather than blindly using tools or frameworks.
+I prefer understanding *how* things work rather than blindly using tools or frameworks.
 
 ---
 ## Tech Stack
@@ -44,19 +44,16 @@ Tools       -> Git   | GitHub     | VS Code     | Figma |
 
 ## Education
 
-- **BTech in Computer Science & Engineering (AI & ML)**
+- **BTech in Computer Science & Engineering (AI & ML) (2023-2027)**
   - Acropolis Institute of Technology and Research, Indore
-  - 2023 – 2027
   - Current CGPA: 7.58
 
-- **Higher Secondary School**
+- **Higher Secondary School (2022-2023)**
     - Pink Flower Higher Secondary School (MPBSE)
-    - 2022-2023
     - Percentage: 90.08%
 
--  **Secondary School**
+-  **Secondary School (2020-2021)**
     - Pink Flower Higher Secondary School (MPBSE)
-    - 2020-2021
     - Percentage: 94.60%
 ---
 
