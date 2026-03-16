@@ -16,7 +16,7 @@ I prefer understanding *why* things work rather than blindly using tools or fram
 
 ```text
 Languages   -> C++   | Python     | C           | 
-Frontend    -> HTML  | CSS        | JavaScript  |
+Frontend    -> HTML  | CSS        | JavaScript  | Tailwind CSS  | React
 Tools       -> Git   | GitHub     | VS Code     | Figma |
 ```
 
