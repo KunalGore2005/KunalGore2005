@@ -9,7 +9,7 @@
 I am a Computer Science undergraduate specializing in AI & ML.  
 My primary focus is on building a strong foundation in data structures, algorithms, and core machine learning concepts, along with applying them through academic and personal projects.
 
-I prefer understanding *why* things work rather than blindly using tools or frameworks.
+I prefer understanding *how* things work rather than blindly using tools or frameworks.
 
 ---
 ## Tech Stack
@@ -17,7 +17,7 @@ I prefer understanding *why* things work rather than blindly using tools or fram
 ```text
 Languages   -> C++   | Python     | C           | 
 Frontend    -> HTML  | CSS        | JavaScript  | Tailwind CSS  | React
-Tools       -> Git   | GitHub     | VS Code     | Figma |
+Tools       -> Git   | GitHub     | VS Code     | Figma         |
 ```
 
 ---
@@ -38,25 +38,22 @@ Tools       -> Git   | GitHub     | VS Code     | Figma |
 
 | LeetCode | GeeksforGeeks | Codeforces |
 |---------|---------------|------------|
-| ![LeetCode Stats](https://leetcard.jacoblin.cool/kunalgore_11?theme=dark&font=Karma) |  <a href="https://auth.geeksforgeeks.org/user/kunalgore11"><img src="https://img.shields.io/badge/GFG-100%2B%20Problems-0f9d58?style=for-the-badge"></a><br/>Score: 300+ | ![Codeforces Stats](https://cf.leed.at?id=kunalgore_11&theme=dark)
+| ![LeetCode Stats](https://leetcard.jacoblin.cool/kunalgore_11?theme=dark&font=Karma) |  <a href="https://auth.geeksforgeeks.org/user/kunalgore11"><img src="https://img.shields.io/badge/GFG-200%2B%20Problems-0f9d58?style=for-the-badge"></a><br/>Score: 700+ | ![Codeforces Stats](https://cf.leed.at?id=kunalgore_11&theme=dark)
 
 ---
 
 ## Education
 
-- **BTech in Computer Science & Engineering (AI & ML)**
+- **BTech in Computer Science & Engineering (AI & ML) (2023-2027)**
   - Acropolis Institute of Technology and Research, Indore
-  - 2023 – 2027
   - Current CGPA: 7.58
 
-- **Higher Secondary School**
+- **Higher Secondary School (2022-2023)**
     - Pink Flower Higher Secondary School (MPBSE)
-    - 2022-2023
     - Percentage: 90.08%
 
--  **Secondary School**
+-  **Secondary School (2020-2021)**
     - Pink Flower Higher Secondary School (MPBSE)
-    - 2020-2021
     - Percentage: 94.60%
 ---
 
