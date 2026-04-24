@@ -15,9 +15,10 @@ I prefer understanding *how* things work rather than blindly using tools or fram
 ## Tech Stack
 
 ```text
-Languages   -> C++   | Python     | C           | 
-Frontend    -> HTML  | CSS        | JavaScript  | Tailwind CSS  | React
-Tools       -> Git   | GitHub     | VS Code     | Figma         |
+Languages   -> C++     | Python     | C           | 
+Frontend    -> HTML    | CSS        | JavaScript  | Tailwind CSS  | React
+Backend     -> Node.js | Express.js | MongoDB
+Tools       -> Git     | GitHub     | VS Code     | Figma         |
 ```
 
 ---
