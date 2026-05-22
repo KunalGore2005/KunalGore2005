@@ -6,8 +6,7 @@
 
 ## About Me
 
-I am a Computer Science undergraduate specializing in AI & ML.  
-My primary focus is on building a strong foundation in data structures, algorithms, and core machine learning concepts, along with applying them through academic and personal projects.
+Passionate B.Tech CSE (AI & ML) student focused on full-stack web development, machine learning, and problem solving. Experienced in building MERN stack applications with responsive UI/UX and backend integration. Strong interest in scalable system design, AI-driven solutions, and practical software development through real-world projects.
 
 I prefer understanding *how* things work rather than blindly using tools or frameworks.
 
@@ -15,10 +14,10 @@ I prefer understanding *how* things work rather than blindly using tools or fram
 ## Tech Stack
 
 ```text
-Languages   -> C++     | Python     | C           | 
+Languages   -> C++     | Python     | C           
 Frontend    -> HTML    | CSS        | JavaScript  | Tailwind CSS  | React
-Backend     -> Node.js | Express.js | MongoDB
-Tools       -> Git     | GitHub     | VS Code     | Figma         |
+Backend     -> Node.js | Express.js | MongoDB     | MySQL
+Tools       -> Git     | GitHub     | VS Code     | Figma         | Postman
 ```
 
 ---
@@ -27,7 +26,21 @@ Tools       -> Git     | GitHub     | VS Code     | Figma         |
 ### City Services Monitoring and Management System
 - Web-based system for reporting and tracking city-level civic issues
 - Role-based access for citizens and department officials
-- Status: In Progress
+- Repository: https://github.com/KunalGore2005/SmartCityIndore
+- Live link: https://city-service-monitoring-system.netlify.app/
+
+### LeetCode Clone
+- Frontend clone of the LeetCode platform built for React practice and UI development
+- Developed using React and Tailwind CSS
+- Deployed on Vercel
+- Repository: https://github.com/KunalGore2005/LeetCode_Clone
+- Live Link: https://leet-code-clone-delta.vercel.app/
+
+### Healthcare Agent
+- AI-powered healthcare assistant for basic medical guidance and symptom-based interaction
+- Generates healthcare responses using Gemini Flash API integration
+- Built to provide quick and accessible healthcare-related assistance
+- Repository: https://github.com/KunalGore2005/Healthcare_AiAgent
 
 ### Personal PortFolio
 - Responsive personal portfolio built using HTML, CSS, and JavaScript
@@ -47,7 +60,7 @@ Tools       -> Git     | GitHub     | VS Code     | Figma         |
 
 - **BTech in Computer Science & Engineering (AI & ML) (2023-2027)**
   - Acropolis Institute of Technology and Research, Indore
-  - Current CGPA: 7.58
+  - Current CGPA: 7.68
 
 - **Higher Secondary School (2022-2023)**
     - Pink Flower Higher Secondary School (MPBSE)
