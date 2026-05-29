@@ -79,3 +79,9 @@ Tools       -> Git     | GitHub     | VS Code     | Figma         | Postman
 - Email: gorekunal665@gmail.com
 
 ---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KunalGore2005&style=for-the-badge&color=0e75b6" alt="Profile Views"/>
+</p>
+
+---
