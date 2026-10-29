@@ -59,18 +59,17 @@ I prefer understanding *how* things work rather than blindly using tools or fram
 - Repository: https://github.com/KunalGore2005/SmartCityIndore
 - Live link: https://city-service-monitoring-system.netlify.app/
 
-### LeetCode Clone
-- Frontend clone of the LeetCode platform built for React practice and UI development
-- Developed using React and Tailwind CSS
-- Deployed on Vercel
-- Repository: https://github.com/KunalGore2005/LeetCode_Clone
-- Live Link: https://leet-code-clone-delta.vercel.app/
+### College Department Management System
+- Full-stack academic management platform for streamlining departmental operations
+- Role-based dashboards for HOD, faculty, and students with attendance tracking, marks management, notices, and profile management
+- Built using React, Tailwind CSS, Node.js, Express.js, and MySQL
+- Repository: https://github.com/KunalGore2005/department-management-system
 
-### Healthcare Agent
-- AI-powered healthcare assistant for basic medical guidance and symptom-based interaction
-- Generates healthcare responses using Gemini Flash API integration
-- Built to provide quick and accessible healthcare-related assistance
-- Repository: https://github.com/KunalGore2005/Healthcare_AiAgent
+### IMovies – Movie Ticket Booking System
+- Full-stack movie ticket booking application for browsing movies and managing ticket bookings
+- Interactive user interface for exploring movies and accessing the ticket booking experienc
+- Repository: https://github.com/KunalGore2005/IMovies-movie_ticket_booking_system
+- Live Link: https://i-movies-movie-ticket-booking-syste-ebon.vercel.app/
 
 ### Personal PortFolio
 - Responsive personal portfolio built using HTML, CSS, and JavaScript
@@ -90,7 +89,7 @@ I prefer understanding *how* things work rather than blindly using tools or fram
 
 - **BTech in Computer Science & Engineering (AI & ML) (2023-2027)**
   - Acropolis Institute of Technology and Research, Indore
-  - Current CGPA: 7.68
+  - Current CGPA: 7.67
 
 - **Higher Secondary School (2022-2023)**
     - Pink Flower Higher Secondary School (MPBSE)
@@ -104,6 +103,7 @@ I prefer understanding *how* things work rather than blindly using tools or fram
 ## Connect With Me
 
 - Portfolio: https://kunalgore2005.github.io/Kunal_Portfolio/
+- LeetCode: https://leetcode.com/u/kunalgore_11
 - LinkedIn: https://linkedin.com/in/kunalgore665
 - GitHub: https://github.com/KunalGore2005
 - Email: gorekunal665@gmail.com
